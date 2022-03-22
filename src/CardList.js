@@ -12,7 +12,7 @@ const CardList= ({ recipe}) => {
                 key={i} 
                 id={recipe[i].id} 
                 name={recipe[i].name} 
-                email={recipe[i].email} 
+                click={recipe[i].click} 
                 />
                 );
             })

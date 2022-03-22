@@ -2,62 +2,52 @@ export const recipe = [
     {
       id: 1,
       name: 'Boiled Potatoe',
-      username: 'Bret',
-      email: 'Sincere@april.biz'
+      click: 'Click for recipe'
     },
     {
       id: 2,
       name: 'Chicken Chilli',
-      username: 'Antonette',
-      email: 'Shanna@melissa.tv'
+      click: 'Click for recipe'
     },
     {
       id: 3,
       name: 'Chicken Rice',
-      username: 'Samantha',
-      email: 'Nathan@yesenia.net'
+      click: 'Click for recipe'
     },
     {
       id: 4,
       name: 'Indomie Jollof',
-      username: 'Karianne',
-      email: 'Julianne.OConner@kory.org'
+      click: 'Click for recipe'
     },
     {
       id: 5,
       name: 'Jollof et Fried',
-      username: 'Kamren',
-      email: 'Lucio_Hettinger@annie.ca'
+      click: 'Click for recipe'
     },
     {
       id: 6,
       name: 'Sauce Soup with rice',
-      username: 'Leopoldo_Corkery',
-      email: 'Karley_Dach@jasper.info'
+      click: 'Click for recipe'
     },
     {
       id: 7,
       name: 'Sausage et Beef rice',
-      username: 'Elwyn.Skiles',
-      email: 'Telly.Hoeger@billy.biz'
+      click: 'Click for recipe'
     },
     {
       id: 8,
       name: 'Sea Spaghetti',
-      username: 'Maxime_Nienow',
-      email: 'Sherwood@rosamond.me'
+      click: 'Click for recipe'
     },
     {
       id: 9,
       name: 'Snail Rice',
-      username: 'Delphine',
-      email: 'Chaim_McDermott@dana.io'
+      click: 'Click for recipe'
     },
     {
       id: 10,
       name: 'Yam Sauce',
-      username: 'Moriah.Stanton',
-      email: 'Rey.Padberg@karina.biz'
+      click: 'Click for recipe'
     }
   ];
   

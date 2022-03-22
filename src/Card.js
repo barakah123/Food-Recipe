@@ -6,7 +6,7 @@ const Card = (props) => {
             <img className='w-50 h3' src={process.env.PUBLIC_URL + '/img/chickenRice.jpg'} alt='chickenRice' />
             <div>
                 <h2>{props.name}</h2>
-                <p>{props.email}</p>
+                <p>{props.click}</p>
             </div>
         </div>
 
