@@ -13,6 +13,7 @@ const CardList= ({ recipe}) => {
                 id={recipe[i].id} 
                 name={recipe[i].name} 
                 click={recipe[i].click} 
+                image={recipe[i].image}
                 />
                 );
             })
